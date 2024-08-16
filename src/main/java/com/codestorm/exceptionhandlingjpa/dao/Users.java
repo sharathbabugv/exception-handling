@@ -17,4 +17,5 @@ public class Users {
     private Long id;
     private String username;
     private String email;
+    private String internalUserId; // Just for example, this should not be shown to user!
 }
